@@ -1,0 +1,26 @@
+name: WBU Lacam
+type: theme
+description: 'Theme Pour entrprise'
+core: 8.x
+core_version_requirement: ^8 || ^9
+base theme: wb_universe
+logo: images/logo.png
+screenshot: images/wbu_entreprise.png
+
+
+regions:
+  top_header: "Top header"
+  content: "Contenu principal"
+
+
+libraries:
+  - wbu_entreprise/global-style
+  - wbu_entreprise/fontawesome
+  - wbu_entreprise/owl
+  
+  
+libraries-override:
+  wb_universe/fontawesome: false
+  wb_universe/google-police: false
+  wb_universe/google-analytics: false
+

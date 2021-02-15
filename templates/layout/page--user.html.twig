@@ -1,0 +1,6 @@
+{% if page.content %}
+<div class="page container">
+	<div{{ page.content.attributes }}>  {{ page.content|without('attributes', 'wrapper_attribute', 'entete') }}</div>
+	<a href="/magento_api_rest/Views" class="btn btn-outline-info btn-sm">Acceder à l'application</a>
+</div>
+{% endif %}

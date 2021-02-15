@@ -1,0 +1,29 @@
+<div class="py-1 top">
+	<div class="container">
+		<div class="row">
+			<div
+				class="col-sm col-md-4 text-center text-md-left mb-md-0 mb-2 pr-md-4 d-flex topper align-items-center">
+				<p class="mb-0 w-100">
+					<span class="fa fa-paper-plane"></span> 
+					<span class="text"> {{ content.infos }} </span>
+				</p>
+			</div>
+			<div class="col-sm justify-content-center d-flex mb-md-0 mb-2">
+				<div class="social-media">
+					<p class="mb-0 d-flex">
+						{% for link in content.link.links %}
+							<a href="{{ link.link }}" class="d-flex align-items-center justify-content-center"> {{ link.text | raw }} </a> 						
+						{% endfor %}						
+					</p>
+				</div>
+			</div>
+			<div
+				class="col-sm-12 col-md-5 col-lg-5 d-flex topper align-items-center text-lg-right justify-content-end">
+				<p class="mb-0 register-link">
+					<a href="{{ content.button.url }}" class="{{ content.button.btn }}" data-toggle="modal"
+						data-target="#exampleModalCenter"> {{ content.button.text }} </a>
+				</p>
+			</div>
+		</div>
+	</div>
+</div>

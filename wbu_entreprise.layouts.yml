@@ -1,0 +1,154 @@
+top_header:
+  label: 'TopHeader'
+  category: 'Template wbu_entreprise'
+  template: templates/layouts/DefaultSection/TopHeader
+  default_region: infos
+  regions:
+    button:
+      label: Button     
+      fieldtype: button 
+    infos:
+      label: Infos (email or phone)
+      fieldtype: string
+    link:
+      label: Link
+      fieldtype: links
+
+    
+before_header:
+  label: 'Before Header'
+  category: 'Template wbu_entreprise'
+  template: templates/layouts/DefaultSection/BeforeHeader
+  default_region: title
+  regions:
+    logo:
+      label: charge le logo.     
+      fieldtype: logo 
+    titre1:
+      label: titre 1     
+      fieldtype: string 
+    icone1:
+      label: icone
+      fieldtype: string
+    titre2:
+      label: titre 2     
+      fieldtype: string 
+    icone2:
+      label: icone
+      fieldtype: string
+
+      
+SectionHero:
+  label: 'Section hero'
+  category: 'Template wbu_entreprise'
+  template: templates/layouts/DefaultSection/SectionHero
+  default_region: titre
+  regions:
+    image:
+      label: image de couverture.     
+      fieldtype: image 
+    titre:
+      label: titre    
+      fieldtype: string 
+    lien:
+      label: url
+      fieldtype: link
+    description:
+      label: description     
+      fieldtype: textarea 
+    liens:
+      label: Liens
+      fieldtype: textarea
+      
+section_services:
+  label: 'Section service'
+  category: 'Template wbu_entreprise'
+  template: templates/layouts/DefaultSection/SectionServices
+  default_region: titre
+  regions:
+    titre:
+      label: titre    
+      fieldtype: string
+      
+section_propos:
+  label: 'Section à propos'
+  category: 'Template wbu_entreprise'
+  template: templates/layouts/DefaultSection/SectionPropos
+  default_region: titre
+  regions:
+    titre:
+      label: titre    
+      fieldtype: string
+
+section_realisations:
+  label: 'Section realisation'
+  category: 'Template wbu_entreprise'
+  template: templates/layouts/DefaultSection/SectionRealisation
+  default_region: titre
+  regions:
+    titre:
+      label: titre    
+      fieldtype: string
+
+section_derniere_realisation:
+  label: 'Section derniere realisation'
+  category: 'Template wbu_entreprise'
+  template: templates/layouts/DefaultSection/SectionsDerniereRealisation
+  default_region: titre
+  regions:
+    titre:
+      label: titre    
+      fieldtype: string
+
+section_commentaire:
+  label: 'Section commentaire'
+  category: 'Template wbu_entreprise'
+  template: templates/layouts/DefaultSection/SectionCommentaire
+  default_region: titre
+  regions:
+    titre:
+      label: titre    
+      fieldtype: string
+
+section_blog:
+  label: 'Section blog'
+  category: 'Template wbu_entreprise'
+  template: templates/layouts/DefaultSection/sectionBlog
+  default_region: titre
+  regions:
+    titre:
+      label: titre    
+      fieldtype: string
+
+wbu_entreprise.footer:
+  label: 'Section Footer'
+  category: 'Template wbu_entreprise'
+  template: templates/layouts/DefaultSection/SectionFooter
+  default_region: titre
+  regions:
+    titre:
+      label: titre    
+      fieldtype: string
+      
+section_parcourt:
+  label: 'Section parcourt'
+  category: 'Template wbu_entreprise'
+  template: templates/layouts/DefaultSection/SectionParcourt
+  default_region: titre
+  regions:
+    titre:
+      label: titre    
+      fieldtype: string
+      
+section_intro:
+  label: 'Section Introduction'
+  category: 'Template wbu_entreprise'
+  template: templates/layouts/DefaultSection/SectionIntro
+  default_region: titre
+  regions:
+    titre:
+      label: titre    
+      fieldtype: string
+      
+      
+      

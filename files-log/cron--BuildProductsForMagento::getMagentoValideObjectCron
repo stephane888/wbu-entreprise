@@ -1,0 +1,3878 @@
+
+
+Date : 25/01/2021  13:16:38
+Array
+(
+    [message] => le champs Drupal field_prix_ttc_ est vide, mais le champs  du groupe CustomAttributes est requis  
+    [code] => 0
+    [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+    [line] => 158
+    [previous] => 
+    [trace] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                    [line] => 60
+                    [function] => getStaticsValues
+                    [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                    [type] => ->
+                )
+
+            [1] => Array
+                (
+                    [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                    [line] => 93
+                    [function] => getMagentoValideObjectCron
+                    [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                    [type] => ->
+                )
+
+            [2] => Array
+                (
+                    [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestSwitch.php
+                    [line] => 22
+                    [function] => prepareSynchronisationCron
+                    [class] => Drupal\magento_api_rest\MagentoApiRest
+                    [type] => ->
+                )
+
+        )
+
+    [PHP_execution_error] => 1
+)
+
+
+Date : 25/01/2021  13:20:12
+Array
+(
+    [message] => le champs Drupal field_prix_ttc_ est vide, mais le champs  du groupe CustomAttributes est requis  
+    [code] => 0
+    [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+    [line] => 158
+    [previous] => 
+    [trace] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                    [line] => 60
+                    [function] => getStaticsValues
+                    [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                    [type] => ->
+                )
+
+            [1] => Array
+                (
+                    [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                    [line] => 93
+                    [function] => getMagentoValideObjectCron
+                    [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                    [type] => ->
+                )
+
+            [2] => Array
+                (
+                    [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestSwitch.php
+                    [line] => 22
+                    [function] => prepareSynchronisationCron
+                    [class] => Drupal\magento_api_rest\MagentoApiRest
+                    [type] => ->
+                )
+
+        )
+
+    [PHP_execution_error] => 1
+)
+
+
+Date : 25/01/2021  13:48:45
+Array
+(
+    [nid] => 215
+    [0] => Array
+        (
+            [message] => le champs Drupal field_prix_ttc_ est vide, mais le champs  du groupe CustomAttributes est requis  
+            [code] => 0
+            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+            [line] => 161
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 60
+                            [function] => getStaticsValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 93
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestSwitch.php
+                            [line] => 22
+                            [function] => prepareSynchronisationCron
+                            [class] => Drupal\magento_api_rest\MagentoApiRest
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 25/01/2021  13:55:10
+Array
+(
+    [nid] => 215
+    [0] => Array
+        (
+            [message] => le champs Drupal field_prix_ttc_ est vide, mais le champs  du groupe CustomAttributes est requis  
+            [code] => 0
+            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+            [line] => 163
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 60
+                            [function] => getStaticsValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 93
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestSwitch.php
+                            [line] => 22
+                            [function] => prepareSynchronisationCron
+                            [class] => Drupal\magento_api_rest\MagentoApiRest
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 25/01/2021  13:55:10
+Array
+(
+    [nid] => 214
+    [0] => Array
+        (
+            [message] => le champs Drupal field_prix_ttc_ est vide, mais le champs  du groupe CustomAttributes est requis  
+            [code] => 0
+            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+            [line] => 163
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 60
+                            [function] => getStaticsValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 93
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestSwitch.php
+                            [line] => 22
+                            [function] => prepareSynchronisationCron
+                            [class] => Drupal\magento_api_rest\MagentoApiRest
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 25/01/2021  14:56:01
+Array
+(
+    [nid] => 215
+    [0] => Array
+        (
+            [message] => le champs Drupal field_prix_ttc_ est vide, mais le champs  du groupe CustomAttributes est requis  
+            [code] => 0
+            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+            [line] => 163
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 60
+                            [function] => getStaticsValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 93
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestSwitch.php
+                            [line] => 22
+                            [function] => prepareSynchronisationCron
+                            [class] => Drupal\magento_api_rest\MagentoApiRest
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 25/01/2021  14:56:01
+Array
+(
+    [nid] => 214
+    [0] => Array
+        (
+            [message] => le champs Drupal field_prix_ttc_ est vide, mais le champs  du groupe CustomAttributes est requis  
+            [code] => 0
+            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+            [line] => 163
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 60
+                            [function] => getStaticsValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 93
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestSwitch.php
+                            [line] => 22
+                            [function] => prepareSynchronisationCron
+                            [class] => Drupal\magento_api_rest\MagentoApiRest
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 25/01/2021  14:58:10
+Array
+(
+    [nid] => 215
+    [0] => Array
+        (
+            [message] => le champs Drupal field_prix_ttc_ est vide, mais le champs  du groupe CustomAttributes est requis  
+            [code] => 0
+            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+            [line] => 163
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 60
+                            [function] => getStaticsValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 93
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestSwitch.php
+                            [line] => 22
+                            [function] => prepareSynchronisationCron
+                            [class] => Drupal\magento_api_rest\MagentoApiRest
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 25/01/2021  14:58:10
+Array
+(
+    [nid] => 214
+    [0] => Array
+        (
+            [message] => le champs Drupal field_prix_ttc_ est vide, mais le champs  du groupe CustomAttributes est requis  
+            [code] => 0
+            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+            [line] => 163
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 60
+                            [function] => getStaticsValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 93
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestSwitch.php
+                            [line] => 22
+                            [function] => prepareSynchronisationCron
+                            [class] => Drupal\magento_api_rest\MagentoApiRest
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 25/01/2021  14:59:45
+Array
+(
+    [nid] => 215
+    [0] => Array
+        (
+            [message] => le champs Drupal field_prix_ttc_ est vide, mais le champs price du groupe CustomAttributes est requis  
+            [code] => 0
+            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+            [line] => 163
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 60
+                            [function] => getStaticsValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 93
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestSwitch.php
+                            [line] => 22
+                            [function] => prepareSynchronisationCron
+                            [class] => Drupal\magento_api_rest\MagentoApiRest
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 25/01/2021  14:59:45
+Array
+(
+    [nid] => 214
+    [0] => Array
+        (
+            [message] => le champs Drupal field_prix_ttc_ est vide, mais le champs price du groupe CustomAttributes est requis  
+            [code] => 0
+            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+            [line] => 163
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 60
+                            [function] => getStaticsValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 93
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestSwitch.php
+                            [line] => 22
+                            [function] => prepareSynchronisationCron
+                            [class] => Drupal\magento_api_rest\MagentoApiRest
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 25/01/2021  15:00:09
+Array
+(
+    [nid] => 215
+    [0] => Array
+        (
+            [message] => le champs Drupal field_prix_ttc_ est vide, mais le champs price du groupe CustomAttributes est requis  
+            [code] => 0
+            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+            [line] => 163
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 60
+                            [function] => getStaticsValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 93
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestSwitch.php
+                            [line] => 22
+                            [function] => prepareSynchronisationCron
+                            [class] => Drupal\magento_api_rest\MagentoApiRest
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 25/01/2021  15:00:09
+Array
+(
+    [nid] => 214
+    [0] => Array
+        (
+            [message] => le champs Drupal field_prix_ttc_ est vide, mais le champs price du groupe CustomAttributes est requis  
+            [code] => 0
+            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+            [line] => 163
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 60
+                            [function] => getStaticsValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 93
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestSwitch.php
+                            [line] => 22
+                            [function] => prepareSynchronisationCron
+                            [class] => Drupal\magento_api_rest\MagentoApiRest
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 25/01/2021  15:01:37
+Array
+(
+    [nid] => 215
+    [0] => Array
+        (
+            [message] => le champs Drupal field_prix_ttc_ est vide, mais le champs price du groupe CustomAttributes est requis  
+            [code] => 0
+            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+            [line] => 163
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 60
+                            [function] => getStaticsValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 93
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestSwitch.php
+                            [line] => 22
+                            [function] => prepareSynchronisationCron
+                            [class] => Drupal\magento_api_rest\MagentoApiRest
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 25/01/2021  15:01:37
+Array
+(
+    [nid] => 214
+    [0] => Array
+        (
+            [message] => le champs Drupal field_prix_ttc_ est vide, mais le champs price du groupe CustomAttributes est requis  
+            [code] => 0
+            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+            [line] => 163
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 60
+                            [function] => getStaticsValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 93
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestSwitch.php
+                            [line] => 22
+                            [function] => prepareSynchronisationCron
+                            [class] => Drupal\magento_api_rest\MagentoApiRest
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 25/01/2021  15:02:12
+Array
+(
+    [nid] => 215
+    [0] => Array
+        (
+            [message] => le champs Drupal field_prix_ttc_ est vide, mais le champs price du groupe CustomAttributes est requis  
+            [code] => 0
+            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+            [line] => 163
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 60
+                            [function] => getStaticsValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 93
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestSwitch.php
+                            [line] => 22
+                            [function] => prepareSynchronisationCron
+                            [class] => Drupal\magento_api_rest\MagentoApiRest
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 25/01/2021  15:02:12
+Array
+(
+    [nid] => 214
+    [0] => Array
+        (
+            [message] => le champs Drupal field_prix_ttc_ est vide, mais le champs price du groupe CustomAttributes est requis  
+            [code] => 0
+            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+            [line] => 163
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 60
+                            [function] => getStaticsValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 93
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestSwitch.php
+                            [line] => 22
+                            [function] => prepareSynchronisationCron
+                            [class] => Drupal\magento_api_rest\MagentoApiRest
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 25/01/2021  17:30:23
+Array
+(
+    [nid] => 222
+    [0] => Array
+        (
+            [message] => Le champs description du groupe custom_attributes n'est pas valide
+            [code] => 0
+            [file] => /siteweb/PluginsModules/stephane888/magento-api-rest/src/AttributeSetId/AttributeSetIdFields.php
+            [line] => 96
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 256
+                            [function] => getCustomAttributesVarcharValue
+                            [class] => Stephane888\MagentoApiRest\AttributeSetId\AttributeSetIdFields
+                            [type] => ::
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 64
+                            [function] => getAttributesValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 93
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 25/01/2021  19:31:52
+Array
+(
+    [nid] => 222
+    [0] => Array
+        (
+            [message] => Le champs description du groupe custom_attributes n'est pas valide
+            [code] => 0
+            [file] => /siteweb/PluginsModules/stephane888/magento-api-rest/src/AttributeSetId/AttributeSetIdFields.php
+            [line] => 96
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 256
+                            [function] => getCustomAttributesVarcharValue
+                            [class] => Stephane888\MagentoApiRest\AttributeSetId\AttributeSetIdFields
+                            [type] => ::
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 64
+                            [function] => getAttributesValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 93
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 25/01/2021  19:48:12
+Array
+(
+    [nid] => 222
+    [0] => Array
+        (
+            [message] => Le champs description du groupe custom_attributes n'est pas valide
+            [code] => 0
+            [file] => /siteweb/PluginsModules/stephane888/magento-api-rest/src/AttributeSetId/AttributeSetIdFields.php
+            [line] => 96
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 259
+                            [function] => getCustomAttributesVarcharValue
+                            [class] => Stephane888\MagentoApiRest\AttributeSetId\AttributeSetIdFields
+                            [type] => ::
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 66
+                            [function] => getAttributesValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 93
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 25/01/2021  19:49:03
+Array
+(
+    [nid] => 222
+    [0] => Array
+        (
+            [message] => Le champs description du groupe custom_attributes n'est pas valide
+            [code] => 0
+            [file] => /siteweb/PluginsModules/stephane888/magento-api-rest/src/AttributeSetId/AttributeSetIdFields.php
+            [line] => 96
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 259
+                            [function] => getCustomAttributesVarcharValue
+                            [class] => Stephane888\MagentoApiRest\AttributeSetId\AttributeSetIdFields
+                            [type] => ::
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 66
+                            [function] => getAttributesValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 93
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 25/01/2021  19:51:47
+Array
+(
+    [nid] => 222
+    [0] => Array
+        (
+            [message] => Le champs description du groupe custom_attributes n'est pas valide
+            [code] => 0
+            [file] => /siteweb/PluginsModules/stephane888/magento-api-rest/src/AttributeSetId/AttributeSetIdFields.php
+            [line] => 96
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 259
+                            [function] => getCustomAttributesVarcharValue
+                            [class] => Stephane888\MagentoApiRest\AttributeSetId\AttributeSetIdFields
+                            [type] => ::
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 66
+                            [function] => getAttributesValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 93
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 25/01/2021  19:53:05
+Array
+(
+    [nid] => 222
+    [0] => Array
+        (
+            [message] => Le champs description du groupe custom_attributes n'est pas valide
+            [code] => 0
+            [file] => /siteweb/PluginsModules/stephane888/magento-api-rest/src/AttributeSetId/AttributeSetIdFields.php
+            [line] => 96
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 259
+                            [function] => getCustomAttributesVarcharValue
+                            [class] => Stephane888\MagentoApiRest\AttributeSetId\AttributeSetIdFields
+                            [type] => ::
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 66
+                            [function] => getAttributesValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 25/01/2021  19:57:02
+Array
+(
+    [nid] => 222
+    [0] => Array
+        (
+            [message] => Le champs description du groupe custom_attributes n'est pas valide
+            [code] => 0
+            [file] => /siteweb/PluginsModules/stephane888/magento-api-rest/src/AttributeSetId/AttributeSetIdFields.php
+            [line] => 96
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 259
+                            [function] => getCustomAttributesVarcharValue
+                            [class] => Stephane888\MagentoApiRest\AttributeSetId\AttributeSetIdFields
+                            [type] => ::
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 66
+                            [function] => getAttributesValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 25/01/2021  19:57:27
+Array
+(
+    [nid] => 222
+    [0] => Array
+        (
+            [message] => Le champs description du groupe custom_attributes n'est pas valide
+            [code] => 0
+            [file] => /siteweb/PluginsModules/stephane888/magento-api-rest/src/AttributeSetId/AttributeSetIdFields.php
+            [line] => 96
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 259
+                            [function] => getCustomAttributesVarcharValue
+                            [class] => Stephane888\MagentoApiRest\AttributeSetId\AttributeSetIdFields
+                            [type] => ::
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 66
+                            [function] => getAttributesValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 25/01/2021  19:57:43
+Array
+(
+    [nid] => 222
+    [0] => Array
+        (
+            [message] => Le champs description du groupe custom_attributes n'est pas valide
+            [code] => 0
+            [file] => /siteweb/PluginsModules/stephane888/magento-api-rest/src/AttributeSetId/AttributeSetIdFields.php
+            [line] => 96
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 259
+                            [function] => getCustomAttributesVarcharValue
+                            [class] => Stephane888\MagentoApiRest\AttributeSetId\AttributeSetIdFields
+                            [type] => ::
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 66
+                            [function] => getAttributesValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 25/01/2021  19:58:09
+Array
+(
+    [nid] => 222
+    [0] => Array
+        (
+            [message] => Le champs description du groupe custom_attributes n'est pas valide
+            [code] => 0
+            [file] => /siteweb/PluginsModules/stephane888/magento-api-rest/src/AttributeSetId/AttributeSetIdFields.php
+            [line] => 96
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 259
+                            [function] => getCustomAttributesVarcharValue
+                            [class] => Stephane888\MagentoApiRest\AttributeSetId\AttributeSetIdFields
+                            [type] => ::
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 66
+                            [function] => getAttributesValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 25/01/2021  19:59:29
+Array
+(
+    [nid] => 222
+    [0] => Array
+        (
+            [message] => Le champs description du groupe custom_attributes n'est pas valide
+            [code] => 0
+            [file] => /siteweb/PluginsModules/stephane888/magento-api-rest/src/AttributeSetId/AttributeSetIdFields.php
+            [line] => 96
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 259
+                            [function] => getCustomAttributesVarcharValue
+                            [class] => Stephane888\MagentoApiRest\AttributeSetId\AttributeSetIdFields
+                            [type] => ::
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 66
+                            [function] => getAttributesValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 25/01/2021  19:59:44
+Array
+(
+    [nid] => 222
+    [0] => Array
+        (
+            [message] => Le champs description du groupe custom_attributes n'est pas valide
+            [code] => 0
+            [file] => /siteweb/PluginsModules/stephane888/magento-api-rest/src/AttributeSetId/AttributeSetIdFields.php
+            [line] => 96
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 259
+                            [function] => getCustomAttributesVarcharValue
+                            [class] => Stephane888\MagentoApiRest\AttributeSetId\AttributeSetIdFields
+                            [type] => ::
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 66
+                            [function] => getAttributesValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 25/01/2021  19:59:53
+Array
+(
+    [nid] => 222
+    [0] => Array
+        (
+            [message] => Le champs description du groupe custom_attributes n'est pas valide
+            [code] => 0
+            [file] => /siteweb/PluginsModules/stephane888/magento-api-rest/src/AttributeSetId/AttributeSetIdFields.php
+            [line] => 96
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 259
+                            [function] => getCustomAttributesVarcharValue
+                            [class] => Stephane888\MagentoApiRest\AttributeSetId\AttributeSetIdFields
+                            [type] => ::
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 66
+                            [function] => getAttributesValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 25/01/2021  20:00:02
+Array
+(
+    [nid] => 222
+    [0] => Array
+        (
+            [message] => Le champs description du groupe custom_attributes n'est pas valide
+            [code] => 0
+            [file] => /siteweb/PluginsModules/stephane888/magento-api-rest/src/AttributeSetId/AttributeSetIdFields.php
+            [line] => 96
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 259
+                            [function] => getCustomAttributesVarcharValue
+                            [class] => Stephane888\MagentoApiRest\AttributeSetId\AttributeSetIdFields
+                            [type] => ::
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 66
+                            [function] => getAttributesValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 25/01/2021  20:00:09
+Array
+(
+    [nid] => 222
+    [0] => Array
+        (
+            [message] => Le champs description du groupe custom_attributes n'est pas valide
+            [code] => 0
+            [file] => /siteweb/PluginsModules/stephane888/magento-api-rest/src/AttributeSetId/AttributeSetIdFields.php
+            [line] => 96
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 259
+                            [function] => getCustomAttributesVarcharValue
+                            [class] => Stephane888\MagentoApiRest\AttributeSetId\AttributeSetIdFields
+                            [type] => ::
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 66
+                            [function] => getAttributesValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 25/01/2021  20:16:36
+Array
+(
+    [nid] => 222
+    [0] => Array
+        (
+            [message] => Le champs description du groupe custom_attributes n'est pas valide
+            [code] => 0
+            [file] => /siteweb/PluginsModules/stephane888/magento-api-rest/src/AttributeSetId/AttributeSetIdFields.php
+            [line] => 96
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 259
+                            [function] => getCustomAttributesVarcharValue
+                            [class] => Stephane888\MagentoApiRest\AttributeSetId\AttributeSetIdFields
+                            [type] => ::
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 66
+                            [function] => getAttributesValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 25/01/2021  20:18:02
+Array
+(
+    [nid] => 222
+    [0] => Array
+        (
+            [message] => Le champs description du groupe custom_attributes n'est pas valide
+            [code] => 0
+            [file] => /siteweb/PluginsModules/stephane888/magento-api-rest/src/AttributeSetId/AttributeSetIdFields.php
+            [line] => 96
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 259
+                            [function] => getCustomAttributesVarcharValue
+                            [class] => Stephane888\MagentoApiRest\AttributeSetId\AttributeSetIdFields
+                            [type] => ::
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 66
+                            [function] => getAttributesValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 25/01/2021  20:18:11
+Array
+(
+    [nid] => 222
+    [0] => Array
+        (
+            [message] => Le champs description du groupe custom_attributes n'est pas valide
+            [code] => 0
+            [file] => /siteweb/PluginsModules/stephane888/magento-api-rest/src/AttributeSetId/AttributeSetIdFields.php
+            [line] => 96
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 259
+                            [function] => getCustomAttributesVarcharValue
+                            [class] => Stephane888\MagentoApiRest\AttributeSetId\AttributeSetIdFields
+                            [type] => ::
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 66
+                            [function] => getAttributesValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 25/01/2021  20:25:22
+Array
+(
+    [nid] => 222
+    [0] => Array
+        (
+            [message] => Le champs description du groupe custom_attributes n'est pas valide
+            [code] => 0
+            [file] => /siteweb/PluginsModules/stephane888/magento-api-rest/src/AttributeSetId/AttributeSetIdFields.php
+            [line] => 96
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 259
+                            [function] => getCustomAttributesVarcharValue
+                            [class] => Stephane888\MagentoApiRest\AttributeSetId\AttributeSetIdFields
+                            [type] => ::
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 66
+                            [function] => getAttributesValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 25/01/2021  20:52:44
+Array
+(
+    [nid] => 222
+    [0] => Array
+        (
+            [message] => Le champs description du groupe custom_attributes n'est pas valide
+            [code] => 0
+            [file] => /siteweb/PluginsModules/stephane888/magento-api-rest/src/AttributeSetId/AttributeSetIdFields.php
+            [line] => 96
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 259
+                            [function] => getCustomAttributesVarcharValue
+                            [class] => Stephane888\MagentoApiRest\AttributeSetId\AttributeSetIdFields
+                            [type] => ::
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 66
+                            [function] => getAttributesValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 25/01/2021  21:04:03
+Array
+(
+    [nid] => 223
+    [0] => Array
+        (
+            [message] => Le champs description du groupe custom_attributes n'est pas valide
+            [code] => 400
+            [file] => /siteweb/PluginsModules/stephane888/magento-api-rest/src/AttributeSetId/AttributeSetIdFields.php
+            [line] => 96
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 259
+                            [function] => getCustomAttributesVarcharValue
+                            [class] => Stephane888\MagentoApiRest\AttributeSetId\AttributeSetIdFields
+                            [type] => ::
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 66
+                            [function] => getAttributesValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 25/01/2021  21:04:03
+Array
+(
+    [nid] => 222
+    [0] => Array
+        (
+            [message] => Le champs description du groupe custom_attributes n'est pas valide
+            [code] => 400
+            [file] => /siteweb/PluginsModules/stephane888/magento-api-rest/src/AttributeSetId/AttributeSetIdFields.php
+            [line] => 96
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 259
+                            [function] => getCustomAttributesVarcharValue
+                            [class] => Stephane888\MagentoApiRest\AttributeSetId\AttributeSetIdFields
+                            [type] => ::
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 66
+                            [function] => getAttributesValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 25/01/2021  21:04:45
+Array
+(
+    [nid] => 223
+    [0] => Array
+        (
+            [message] => Le champs description du groupe custom_attributes n'est pas valide
+            [code] => 402
+            [file] => /siteweb/PluginsModules/stephane888/magento-api-rest/src/AttributeSetId/AttributeSetIdFields.php
+            [line] => 96
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 259
+                            [function] => getCustomAttributesVarcharValue
+                            [class] => Stephane888\MagentoApiRest\AttributeSetId\AttributeSetIdFields
+                            [type] => ::
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 66
+                            [function] => getAttributesValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 25/01/2021  21:04:45
+Array
+(
+    [nid] => 222
+    [0] => Array
+        (
+            [message] => Le champs description du groupe custom_attributes n'est pas valide
+            [code] => 402
+            [file] => /siteweb/PluginsModules/stephane888/magento-api-rest/src/AttributeSetId/AttributeSetIdFields.php
+            [line] => 96
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 259
+                            [function] => getCustomAttributesVarcharValue
+                            [class] => Stephane888\MagentoApiRest\AttributeSetId\AttributeSetIdFields
+                            [type] => ::
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 66
+                            [function] => getAttributesValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 25/01/2021  21:09:09
+Array
+(
+    [nid] => 223
+    [0] => Array
+        (
+            [message] => Le champs description du groupe custom_attributes n'est pas valide
+            [code] => 402
+            [file] => /siteweb/PluginsModules/stephane888/magento-api-rest/src/AttributeSetId/AttributeSetIdFields.php
+            [line] => 98
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 259
+                            [function] => getCustomAttributesVarcharValue
+                            [class] => Stephane888\MagentoApiRest\AttributeSetId\AttributeSetIdFields
+                            [type] => ::
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 66
+                            [function] => getAttributesValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 25/01/2021  21:09:09
+Array
+(
+    [nid] => 222
+    [0] => Array
+        (
+            [message] => Le champs description du groupe custom_attributes n'est pas valide
+            [code] => 402
+            [file] => /siteweb/PluginsModules/stephane888/magento-api-rest/src/AttributeSetId/AttributeSetIdFields.php
+            [line] => 98
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 259
+                            [function] => getCustomAttributesVarcharValue
+                            [class] => Stephane888\MagentoApiRest\AttributeSetId\AttributeSetIdFields
+                            [type] => ::
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 66
+                            [function] => getAttributesValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 25/01/2021  21:12:36
+Array
+(
+    [nid] => 222
+    [0] => Array
+        (
+            [message] => Wrong parameters for Error([string $message [, long $code [, Throwable $previous = NULL]]])
+            [code] => 0
+            [file] => /siteweb/PluginsModules/stephane888/magento-api-rest/src/AttributeSetId/AttributeSetIdFields.php
+            [line] => 98
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/PluginsModules/stephane888/magento-api-rest/src/AttributeSetId/AttributeSetIdFields.php
+                            [line] => 98
+                            [function] => __construct
+                            [class] => Error
+                            [type] => ->
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 259
+                            [function] => getCustomAttributesVarcharValue
+                            [class] => Stephane888\MagentoApiRest\AttributeSetId\AttributeSetIdFields
+                            [type] => ::
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 66
+                            [function] => getAttributesValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 25/01/2021  21:25:55
+Array
+(
+    [nid] => 222
+    [0] => Array
+        (
+            [message] => Wrong parameters for Error([string $message [, long $code [, Throwable $previous = NULL]]])
+            [code] => 0
+            [file] => /siteweb/PluginsModules/stephane888/magento-api-rest/src/AttributeSetId/AttributeSetIdFields.php
+            [line] => 107
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/PluginsModules/stephane888/magento-api-rest/src/AttributeSetId/AttributeSetIdFields.php
+                            [line] => 107
+                            [function] => __construct
+                            [class] => Error
+                            [type] => ->
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 259
+                            [function] => getCustomAttributesVarcharValue
+                            [class] => Stephane888\MagentoApiRest\AttributeSetId\AttributeSetIdFields
+                            [type] => ::
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 66
+                            [function] => getAttributesValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 26/01/2021  02:51:23
+Array
+(
+    [nid] => 225
+    [0] => Array
+        (
+            [message] => Wrong parameters for Error([string $message [, long $code [, Throwable $previous = NULL]]])
+            [code] => 0
+            [file] => /siteweb/PluginsModules/stephane888/magento-api-rest/src/AttributeSetId/AttributeSetIdFields.php
+            [line] => 107
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/PluginsModules/stephane888/magento-api-rest/src/AttributeSetId/AttributeSetIdFields.php
+                            [line] => 107
+                            [function] => __construct
+                            [class] => Error
+                            [type] => ->
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 260
+                            [function] => getCustomAttributesVarcharValue
+                            [class] => Stephane888\MagentoApiRest\AttributeSetId\AttributeSetIdFields
+                            [type] => ::
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 66
+                            [function] => getAttributesValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 26/01/2021  02:51:23
+Array
+(
+    [nid] => 224
+    [0] => Array
+        (
+            [message] => Wrong parameters for Error([string $message [, long $code [, Throwable $previous = NULL]]])
+            [code] => 0
+            [file] => /siteweb/PluginsModules/stephane888/magento-api-rest/src/AttributeSetId/AttributeSetIdFields.php
+            [line] => 107
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/PluginsModules/stephane888/magento-api-rest/src/AttributeSetId/AttributeSetIdFields.php
+                            [line] => 107
+                            [function] => __construct
+                            [class] => Error
+                            [type] => ->
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 260
+                            [function] => getCustomAttributesVarcharValue
+                            [class] => Stephane888\MagentoApiRest\AttributeSetId\AttributeSetIdFields
+                            [type] => ::
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 66
+                            [function] => getAttributesValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 26/01/2021  02:51:23
+Array
+(
+    [nid] => 223
+    [0] => Array
+        (
+            [message] => Wrong parameters for Error([string $message [, long $code [, Throwable $previous = NULL]]])
+            [code] => 0
+            [file] => /siteweb/PluginsModules/stephane888/magento-api-rest/src/AttributeSetId/AttributeSetIdFields.php
+            [line] => 107
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/PluginsModules/stephane888/magento-api-rest/src/AttributeSetId/AttributeSetIdFields.php
+                            [line] => 107
+                            [function] => __construct
+                            [class] => Error
+                            [type] => ->
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 260
+                            [function] => getCustomAttributesVarcharValue
+                            [class] => Stephane888\MagentoApiRest\AttributeSetId\AttributeSetIdFields
+                            [type] => ::
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 66
+                            [function] => getAttributesValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 26/01/2021  02:52:52
+Array
+(
+    [nid] => 225
+    [0] => Array
+        (
+            [message] => Le champs description du groupe custom_attributes n'est pas valide
+            [code] => 403
+            [file] => /siteweb/PluginsModules/stephane888/magento-api-rest/src/AttributeSetId/AttributeSetIdFields.php
+            [line] => 107
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 260
+                            [function] => getCustomAttributesVarcharValue
+                            [class] => Stephane888\MagentoApiRest\AttributeSetId\AttributeSetIdFields
+                            [type] => ::
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 66
+                            [function] => getAttributesValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 26/01/2021  02:52:52
+Array
+(
+    [nid] => 224
+    [0] => Array
+        (
+            [message] => Le champs description du groupe custom_attributes n'est pas valide
+            [code] => 403
+            [file] => /siteweb/PluginsModules/stephane888/magento-api-rest/src/AttributeSetId/AttributeSetIdFields.php
+            [line] => 107
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 260
+                            [function] => getCustomAttributesVarcharValue
+                            [class] => Stephane888\MagentoApiRest\AttributeSetId\AttributeSetIdFields
+                            [type] => ::
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 66
+                            [function] => getAttributesValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 26/01/2021  02:52:52
+Array
+(
+    [nid] => 223
+    [0] => Array
+        (
+            [message] => Le champs description du groupe custom_attributes n'est pas valide
+            [code] => 403
+            [file] => /siteweb/PluginsModules/stephane888/magento-api-rest/src/AttributeSetId/AttributeSetIdFields.php
+            [line] => 107
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 260
+                            [function] => getCustomAttributesVarcharValue
+                            [class] => Stephane888\MagentoApiRest\AttributeSetId\AttributeSetIdFields
+                            [type] => ::
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 66
+                            [function] => getAttributesValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 26/01/2021  02:54:50
+Array
+(
+    [nid] => 225
+    [0] => Array
+        (
+            [message] => Le champs description du groupe custom_attributes n'est pas valide
+            [code] => 403
+            [file] => /siteweb/PluginsModules/stephane888/magento-api-rest/src/AttributeSetId/AttributeSetIdFields.php
+            [line] => 107
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 260
+                            [function] => getCustomAttributesVarcharValue
+                            [class] => Stephane888\MagentoApiRest\AttributeSetId\AttributeSetIdFields
+                            [type] => ::
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 66
+                            [function] => getAttributesValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 26/01/2021  03:07:59
+Array
+(
+    [nid] => 225
+    [0] => Array
+        (
+            [message] => Le champs description du groupe custom_attributes n'est pas valide
+            [code] => 403
+            [file] => /siteweb/PluginsModules/stephane888/magento-api-rest/src/AttributeSetId/AttributeSetIdFields.php
+            [line] => 107
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 260
+                            [function] => getCustomAttributesVarcharValue
+                            [class] => Stephane888\MagentoApiRest\AttributeSetId\AttributeSetIdFields
+                            [type] => ::
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 66
+                            [function] => getAttributesValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 26/01/2021  05:18:16
+Array
+(
+    [nid] => 1
+    [0] => Array
+        (
+            [message] => le champs Drupal field_prix_ttc_ est vide, mais le champs price du groupe CustomAttributes est requis  
+            [code] => 0
+            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+            [line] => 166
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 62
+                            [function] => getStaticsValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestSwitch.php
+                            [line] => 22
+                            [function] => prepareSynchronisationCron
+                            [class] => Drupal\magento_api_rest\MagentoApiRest
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 26/01/2021  06:02:17
+Array
+(
+    [nid] => 1
+    [0] => Array
+        (
+            [message] => le champs Drupal field_prix_ttc_ est vide, mais le champs price du groupe CustomAttributes est requis  
+            [code] => 0
+            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+            [line] => 165
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 60
+                            [function] => getStaticsValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestSwitch.php
+                            [line] => 22
+                            [function] => prepareSynchronisationCron
+                            [class] => Drupal\magento_api_rest\MagentoApiRest
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 26/01/2021  06:50:55
+Array
+(
+    [nid] => 2
+    [0] => Array
+        (
+            [message] => le champs Drupal field_prix_ttc_ est vide, mais le champs price du groupe CustomAttributes est requis  
+            [code] => 0
+            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+            [line] => 165
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 60
+                            [function] => getStaticsValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestSwitch.php
+                            [line] => 22
+                            [function] => prepareSynchronisationCron
+                            [class] => Drupal\magento_api_rest\MagentoApiRest
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 26/01/2021  06:54:22
+Array
+(
+    [nid] => 3
+    [0] => Array
+        (
+            [message] => le champs Drupal field_prix_ttc_ est vide, mais le champs price du groupe CustomAttributes est requis  
+            [code] => 0
+            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+            [line] => 165
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 60
+                            [function] => getStaticsValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestSwitch.php
+                            [line] => 22
+                            [function] => prepareSynchronisationCron
+                            [class] => Drupal\magento_api_rest\MagentoApiRest
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 26/01/2021  07:00:12
+Array
+(
+    [nid] => 4
+    [0] => Array
+        (
+            [message] => le champs Drupal field_prix_ttc_ est vide, mais le champs price du groupe CustomAttributes est requis  
+            [code] => 0
+            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+            [line] => 165
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 60
+                            [function] => getStaticsValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestSwitch.php
+                            [line] => 22
+                            [function] => prepareSynchronisationCron
+                            [class] => Drupal\magento_api_rest\MagentoApiRest
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 26/01/2021  07:00:19
+Array
+(
+    [nid] => 5
+    [0] => Array
+        (
+            [message] => le champs Drupal field_prix_ttc_ est vide, mais le champs price du groupe CustomAttributes est requis  
+            [code] => 0
+            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+            [line] => 165
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 60
+                            [function] => getStaticsValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestSwitch.php
+                            [line] => 22
+                            [function] => prepareSynchronisationCron
+                            [class] => Drupal\magento_api_rest\MagentoApiRest
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 26/01/2021  07:00:29
+Array
+(
+    [nid] => 6
+    [0] => Array
+        (
+            [message] => le champs Drupal field_prix_ttc_ est vide, mais le champs price du groupe CustomAttributes est requis  
+            [code] => 0
+            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+            [line] => 165
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 60
+                            [function] => getStaticsValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestSwitch.php
+                            [line] => 22
+                            [function] => prepareSynchronisationCron
+                            [class] => Drupal\magento_api_rest\MagentoApiRest
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 26/01/2021  07:00:38
+Array
+(
+    [nid] => 7
+    [0] => Array
+        (
+            [message] => le champs Drupal field_prix_ttc_ est vide, mais le champs price du groupe CustomAttributes est requis  
+            [code] => 0
+            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+            [line] => 165
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 60
+                            [function] => getStaticsValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestSwitch.php
+                            [line] => 22
+                            [function] => prepareSynchronisationCron
+                            [class] => Drupal\magento_api_rest\MagentoApiRest
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 26/01/2021  07:02:57
+Array
+(
+    [nid] => 8
+    [0] => Array
+        (
+            [message] => le champs Drupal field_prix_ttc_ est vide, mais le champs price du groupe CustomAttributes est requis  
+            [code] => 0
+            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+            [line] => 165
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 60
+                            [function] => getStaticsValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestSwitch.php
+                            [line] => 22
+                            [function] => prepareSynchronisationCron
+                            [class] => Drupal\magento_api_rest\MagentoApiRest
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 26/01/2021  07:02:57
+Array
+(
+    [nid] => 9
+    [0] => Array
+        (
+            [message] => le champs Drupal field_prix_ttc_ est vide, mais le champs price du groupe CustomAttributes est requis  
+            [code] => 0
+            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+            [line] => 165
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 60
+                            [function] => getStaticsValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestSwitch.php
+                            [line] => 22
+                            [function] => prepareSynchronisationCron
+                            [class] => Drupal\magento_api_rest\MagentoApiRest
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 26/01/2021  07:02:57
+Array
+(
+    [nid] => 10
+    [0] => Array
+        (
+            [message] => le champs Drupal field_prix_ttc_ est vide, mais le champs price du groupe CustomAttributes est requis  
+            [code] => 0
+            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+            [line] => 165
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 60
+                            [function] => getStaticsValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestSwitch.php
+                            [line] => 22
+                            [function] => prepareSynchronisationCron
+                            [class] => Drupal\magento_api_rest\MagentoApiRest
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 26/01/2021  07:02:57
+Array
+(
+    [nid] => 11
+    [0] => Array
+        (
+            [message] => le champs Drupal field_prix_ttc_ est vide, mais le champs price du groupe CustomAttributes est requis  
+            [code] => 0
+            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+            [line] => 165
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 60
+                            [function] => getStaticsValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestSwitch.php
+                            [line] => 22
+                            [function] => prepareSynchronisationCron
+                            [class] => Drupal\magento_api_rest\MagentoApiRest
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 26/01/2021  07:02:57
+Array
+(
+    [nid] => 12
+    [0] => Array
+        (
+            [message] => le champs Drupal field_prix_ttc_ est vide, mais le champs price du groupe CustomAttributes est requis  
+            [code] => 0
+            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+            [line] => 165
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 60
+                            [function] => getStaticsValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestSwitch.php
+                            [line] => 22
+                            [function] => prepareSynchronisationCron
+                            [class] => Drupal\magento_api_rest\MagentoApiRest
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 26/01/2021  07:03:22
+Array
+(
+    [nid] => 13
+    [0] => Array
+        (
+            [message] => le champs Drupal field_prix_ttc_ est vide, mais le champs price du groupe CustomAttributes est requis  
+            [code] => 0
+            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+            [line] => 165
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 60
+                            [function] => getStaticsValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestSwitch.php
+                            [line] => 22
+                            [function] => prepareSynchronisationCron
+                            [class] => Drupal\magento_api_rest\MagentoApiRest
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 26/01/2021  07:03:22
+Array
+(
+    [nid] => 14
+    [0] => Array
+        (
+            [message] => le champs Drupal field_prix_ttc_ est vide, mais le champs price du groupe CustomAttributes est requis  
+            [code] => 0
+            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+            [line] => 165
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 60
+                            [function] => getStaticsValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestSwitch.php
+                            [line] => 22
+                            [function] => prepareSynchronisationCron
+                            [class] => Drupal\magento_api_rest\MagentoApiRest
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 26/01/2021  07:03:22
+Array
+(
+    [nid] => 15
+    [0] => Array
+        (
+            [message] => le champs Drupal field_prix_ttc_ est vide, mais le champs price du groupe CustomAttributes est requis  
+            [code] => 0
+            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+            [line] => 165
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 60
+                            [function] => getStaticsValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestSwitch.php
+                            [line] => 22
+                            [function] => prepareSynchronisationCron
+                            [class] => Drupal\magento_api_rest\MagentoApiRest
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 26/01/2021  07:03:22
+Array
+(
+    [nid] => 16
+    [0] => Array
+        (
+            [message] => le champs Drupal field_prix_ttc_ est vide, mais le champs price du groupe CustomAttributes est requis  
+            [code] => 0
+            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+            [line] => 165
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 60
+                            [function] => getStaticsValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestSwitch.php
+                            [line] => 22
+                            [function] => prepareSynchronisationCron
+                            [class] => Drupal\magento_api_rest\MagentoApiRest
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 26/01/2021  07:03:22
+Array
+(
+    [nid] => 17
+    [0] => Array
+        (
+            [message] => le champs Drupal field_prix_ttc_ est vide, mais le champs price du groupe CustomAttributes est requis  
+            [code] => 0
+            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+            [line] => 165
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 60
+                            [function] => getStaticsValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestSwitch.php
+                            [line] => 22
+                            [function] => prepareSynchronisationCron
+                            [class] => Drupal\magento_api_rest\MagentoApiRest
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 26/01/2021  07:03:27
+Array
+(
+    [nid] => 18
+    [0] => Array
+        (
+            [message] => le champs Drupal field_prix_ttc_ est vide, mais le champs price du groupe CustomAttributes est requis  
+            [code] => 0
+            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+            [line] => 165
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 60
+                            [function] => getStaticsValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestSwitch.php
+                            [line] => 22
+                            [function] => prepareSynchronisationCron
+                            [class] => Drupal\magento_api_rest\MagentoApiRest
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 26/01/2021  07:03:27
+Array
+(
+    [nid] => 19
+    [0] => Array
+        (
+            [message] => le champs Drupal field_prix_ttc_ est vide, mais le champs price du groupe CustomAttributes est requis  
+            [code] => 0
+            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+            [line] => 165
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 60
+                            [function] => getStaticsValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestSwitch.php
+                            [line] => 22
+                            [function] => prepareSynchronisationCron
+                            [class] => Drupal\magento_api_rest\MagentoApiRest
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 26/01/2021  07:03:27
+Array
+(
+    [nid] => 20
+    [0] => Array
+        (
+            [message] => le champs Drupal field_prix_ttc_ est vide, mais le champs price du groupe CustomAttributes est requis  
+            [code] => 0
+            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+            [line] => 165
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 60
+                            [function] => getStaticsValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestSwitch.php
+                            [line] => 22
+                            [function] => prepareSynchronisationCron
+                            [class] => Drupal\magento_api_rest\MagentoApiRest
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 26/01/2021  07:03:27
+Array
+(
+    [nid] => 21
+    [0] => Array
+        (
+            [message] => le champs Drupal field_prix_ttc_ est vide, mais le champs price du groupe CustomAttributes est requis  
+            [code] => 0
+            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+            [line] => 165
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 60
+                            [function] => getStaticsValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestSwitch.php
+                            [line] => 22
+                            [function] => prepareSynchronisationCron
+                            [class] => Drupal\magento_api_rest\MagentoApiRest
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 26/01/2021  07:03:27
+Array
+(
+    [nid] => 22
+    [0] => Array
+        (
+            [message] => le champs Drupal field_prix_ttc_ est vide, mais le champs price du groupe CustomAttributes est requis  
+            [code] => 0
+            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+            [line] => 165
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 60
+                            [function] => getStaticsValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestSwitch.php
+                            [line] => 22
+                            [function] => prepareSynchronisationCron
+                            [class] => Drupal\magento_api_rest\MagentoApiRest
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 26/01/2021  07:03:27
+Array
+(
+    [nid] => 23
+    [0] => Array
+        (
+            [message] => le champs Drupal field_prix_ttc_ est vide, mais le champs price du groupe CustomAttributes est requis  
+            [code] => 0
+            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+            [line] => 165
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 60
+                            [function] => getStaticsValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestSwitch.php
+                            [line] => 22
+                            [function] => prepareSynchronisationCron
+                            [class] => Drupal\magento_api_rest\MagentoApiRest
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 26/01/2021  07:03:27
+Array
+(
+    [nid] => 24
+    [0] => Array
+        (
+            [message] => le champs Drupal field_prix_ttc_ est vide, mais le champs price du groupe CustomAttributes est requis  
+            [code] => 0
+            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+            [line] => 165
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 60
+                            [function] => getStaticsValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestSwitch.php
+                            [line] => 22
+                            [function] => prepareSynchronisationCron
+                            [class] => Drupal\magento_api_rest\MagentoApiRest
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 26/01/2021  07:03:27
+Array
+(
+    [nid] => 25
+    [0] => Array
+        (
+            [message] => le champs Drupal field_prix_ttc_ est vide, mais le champs price du groupe CustomAttributes est requis  
+            [code] => 0
+            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+            [line] => 165
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 60
+                            [function] => getStaticsValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestSwitch.php
+                            [line] => 22
+                            [function] => prepareSynchronisationCron
+                            [class] => Drupal\magento_api_rest\MagentoApiRest
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 26/01/2021  07:03:27
+Array
+(
+    [nid] => 26
+    [0] => Array
+        (
+            [message] => le champs Drupal field_prix_ttc_ est vide, mais le champs price du groupe CustomAttributes est requis  
+            [code] => 0
+            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+            [line] => 165
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 60
+                            [function] => getStaticsValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestSwitch.php
+                            [line] => 22
+                            [function] => prepareSynchronisationCron
+                            [class] => Drupal\magento_api_rest\MagentoApiRest
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
+
+
+Date : 26/01/2021  07:03:27
+Array
+(
+    [nid] => 27
+    [0] => Array
+        (
+            [message] => le champs Drupal field_prix_ttc_ est vide, mais le champs price du groupe CustomAttributes est requis  
+            [code] => 0
+            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+            [line] => 165
+            [previous] => 
+            [trace] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/Reposotory/Nodes/BuildProductsForMagento.php
+                            [line] => 60
+                            [function] => getStaticsValues
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestRessources.php
+                            [line] => 94
+                            [function] => getMagentoValideObjectCron
+                            [class] => Drupal\magento_api_rest\Reposotory\Nodes\BuildProductsForMagento
+                            [type] => ->
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /siteweb/app-teamcommerce/public/web/modules/magento_api_rest/src/MagentoApiRestSwitch.php
+                            [line] => 22
+                            [function] => prepareSynchronisationCron
+                            [class] => Drupal\magento_api_rest\MagentoApiRest
+                            [type] => ->
+                        )
+
+                )
+
+            [PHP_execution_error] => 1
+        )
+
+)
